@@ -1,6 +1,6 @@
 # Scraping Data Tables from Natural Stat Trick Using Beautiful Soup
 
-This repo contains the jupyter notebook used to scrape data from Natural Stat Trick used.
+This repo contains the jupyter notebook used to scrape data from Natural Stat Trick.
 
 In this notebook, I will be demonstrating how to grab data from tables on the website Natural Stat Trick. Natural Stat Trick is a website for getting standard and advanced NHL statistics. It is one of the more well known and frequently referenced sources of data in the NHL analytics world for writers and fans alike.
 
